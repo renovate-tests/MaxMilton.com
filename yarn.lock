@@ -733,9 +733,9 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
-"@hyperapp/router@0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@hyperapp/router/-/router-0.7.0.tgz#99fde37696d07949514c3519db1fe6785a053d2d"
+"@hyperapp/router@0.7.1":
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/@hyperapp/router/-/router-0.7.1.tgz#affa142997308de38a6ad72bae9c245947b11e11"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
